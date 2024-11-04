@@ -2,5 +2,11 @@ h1, h2, h3{
     text-align: center;
 }
 body{
-    background-color:lightblue;
+    background-color: azure;
+}
+.profil{
+    text-align: center;
+}
+ul{
+    list-style-type: disc;
 }
